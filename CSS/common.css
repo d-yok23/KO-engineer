@@ -1,0 +1,67 @@
+.header {
+  background-color: black;
+  height: 90px;
+  border-bottom: 5px outset #FFFFFF;
+}
+
+.header_logo {
+  color: white;
+  font-family: 'SimHei';
+  font-size: 50px;
+  padding: 20px 40px;
+  float: left;
+}
+
+li {
+  list-style: none;
+  float: left;
+  padding: 20px 40px;
+}
+
+.header_list {
+  color: white;
+  float: left;
+}
+
+.main {
+  background-color: #696969;
+  height: 700px;
+}
+
+.contents_item {
+  float: left;
+  margin-top: 60px;
+  margin-right: 50px;
+}
+
+.aoki_text {
+  color: white;
+  display: none;
+}
+
+.mori_text {
+  color: white;
+  display: none;
+}
+
+.yokoi_text {
+  color: white;
+  display: none;
+}
+
+/* whatskoengineer用のcss */
+.whatskoeng_title {
+  color: white;
+  margin: 0;
+  padding: 70px 100px;
+  font-family: 'SimHei';
+}
+
+.whatskoeng_exp {
+  color: white;
+  margin-top: 0;
+  padding-left: 150px;
+  font-family: 'SimHei';
+  font-size: 25px;
+  display: none;
+}
